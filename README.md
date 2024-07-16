@@ -1,6 +1,5 @@
 # Crack-Your-Internship-Challenge
 
-Absolutely! Here’s a description you can use for your GitHub repository:
 
 ---
 
